@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a 19 year old enginnering student, mostly coding for fun.<br>Feel free to contact me for any inquiries or projects.<br><br>💻 Current hosting platform: Oracle</p>
+<p align="left">I'm a 20 year old enginnering student, mostly coding for fun.<br>Feel free to contact me for any inquiries or projects.<br><br>💻 Current hosting platform: Oracle</p>
 
 ###
 
